@@ -92,5 +92,13 @@
 
 ![Ejercicios cap 8_page-0011](https://user-images.githubusercontent.com/117187676/208278903-bc7a24ab-ecac-410c-ba99-a39567226cb1.jpg)
 
+# 4. VIDEO
 
+# 5. CONCLUSIONES
+
+* En los circuitos mixtos, es más fácil resolverlos o simplificarlos mediante Ley de Ohm, aún así las leyes de voltaje e intensidad de Kirchhoff se aplican al análisis de los circuitos en serie y paralelo, así mismo los divisores de voltaje e intensidad son fundamentales para los circuitos que sean más complejos.
+
+* Al convertir fuentes de voltaje y corriente se observo que, aunque las fuentes son equivalentes, las corrientes y voltajes en ellas no pueden ser los mismo.
+
+* Para el análisis en los circuitos tenemos diversas formas de resolver según el procedimiento que más nos acomode o nos permita llegar a una solución rápida, los 3 más utilizados están: análisis de corriente de rama, análisis de mallas y análisis por nodos.
 
