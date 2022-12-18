@@ -68,5 +68,29 @@
 
 ![ejercicios cap 7_page-0016](https://user-images.githubusercontent.com/117187676/208265987-7d69bfe9-0713-4617-9d95-860a862883c3.jpg)
 
+* CAPITULO 8
+
+![Ejercicios cap 8_page-0001](https://user-images.githubusercontent.com/117187676/208278907-b8eddd87-96bd-44ee-b9bb-196b68c59cfe.jpg)
+
+![Ejercicios cap 8_page-0002](https://user-images.githubusercontent.com/117187676/208278912-24a1dbba-c4bf-4d46-a276-2dc354f5abc4.jpg)
+
+![Ejercicios cap 8_page-0003](https://user-images.githubusercontent.com/117187676/208278915-efd38cfa-a696-4779-a999-070de86fde73.jpg)
+
+![Ejercicios cap 8_page-0004](https://user-images.githubusercontent.com/117187676/208278863-1cd92aee-7bb6-43f4-b278-9401660981fd.jpg)
+
+![Ejercicios cap 8_page-0005](https://user-images.githubusercontent.com/117187676/208278877-0f96bc30-6804-4f54-b1ca-c5e722f376fb.jpg)
+
+![Ejercicios cap 8_page-0006](https://user-images.githubusercontent.com/117187676/208278884-116d737b-45f0-4776-b0ed-e73d52737785.jpg)
+
+![Ejercicios cap 8_page-0007](https://user-images.githubusercontent.com/117187676/208278887-6b6f6676-08b9-4496-a0f2-fd2e2a3d5cb1.jpg)
+
+![Ejercicios cap 8_page-0008](https://user-images.githubusercontent.com/117187676/208278892-6c79fedb-d4fc-4e96-b51a-f57bb904434b.jpg)
+
+![Ejercicios cap 8_page-0009](https://user-images.githubusercontent.com/117187676/208278897-2a115d17-d502-468d-b436-62fefd91e56e.jpg)
+
+![Ejercicios cap 8_page-0010](https://user-images.githubusercontent.com/117187676/208278901-05c2ba88-a1cb-489f-bd3e-64570d40e935.jpg)
+
+![Ejercicios cap 8_page-0011](https://user-images.githubusercontent.com/117187676/208278903-bc7a24ab-ecac-410c-ba99-a39567226cb1.jpg)
+
 
 
