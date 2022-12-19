@@ -94,6 +94,8 @@
 
 # 4. VIDEO
 
+https://youtu.be/aLujGQst8QQ
+
 # 5. CONCLUSIONES
 
 * En los circuitos mixtos, es más fácil resolverlos o simplificarlos mediante Ley de Ohm, aún así las leyes de voltaje e intensidad de Kirchhoff se aplican al análisis de los circuitos en serie y paralelo, así mismo los divisores de voltaje e intensidad son fundamentales para los circuitos que sean más complejos.
@@ -102,3 +104,6 @@
 
 * Para el análisis en los circuitos tenemos diversas formas de resolver según el procedimiento que más nos acomode o nos permita llegar a una solución rápida, los 3 más utilizados están: análisis de corriente de rama, análisis de mallas y análisis por nodos.
 
+# 6. BIBLIOGRAFIA
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
